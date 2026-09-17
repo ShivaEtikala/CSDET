@@ -6,6 +6,7 @@ C SDET is a C-based software testing project built and compiled using Microsoft'
 The project contains C source code, test-case documentation, Visual Studio Code configuration, and compiler-generated build/debug artifacts.
 
 Project Structure
+```text
 C SDET/
 │
 ├── .vscode/
@@ -25,7 +26,7 @@ C SDET/
 ├── vc140.pdb                   # Visual C/C++ debug information
 │
 └── README.md                   # Project documentation
-
+```
 ## Prerequisites
 
 The following are required to build and run this project:
